@@ -37,3 +37,4 @@ DOMAIN-SUFFIX,www.google.ru
 DOMAIN-SUFFIX,www.googletagmanager.com
 DOMAIN-SUFFIX,www.gstatic.com
 DOMAIN-SUFFIX,www.w3.org
+DOMAIN-SUFFIX,update.googleapis.com
