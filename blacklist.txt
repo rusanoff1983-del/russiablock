@@ -41,5 +41,13 @@ DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,deepseek.ai
-#########
+DOMAIN-SUFFIX,direct-league.com
+DOMAIN-SUFFIX,fapix.online
+DOMAIN-SUFFIX,gammaclown.com
+DOMAIN-SUFFIX,mc.yandex.ru
+DOMAIN-SUFFIX,mult-porno.com
+DOMAIN-SUFFIX,porndish.org
+DOMAIN-SUFFIX,sex-studentki.one
+DOMAIN-SUFFIX,sex-studentki.lol
+DOMAIN-SUFFIX,sex-studentki.monster
 
