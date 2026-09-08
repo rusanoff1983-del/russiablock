@@ -39,3 +39,5 @@ DOMAIN-SUFFIX,www.gstatic.com
 DOMAIN-SUFFIX,www.w3.org
 DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseek.ai
